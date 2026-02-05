@@ -37,12 +37,6 @@ flutter:
       android:
         package: com.example.bluetooth_print_plus.bluetooth_print_plus
         pluginClass: BluetoothPrintPlusPlugin
-      ios:
-        pluginClass: BluetoothPrintPlusPlugin
-      linux:
-        pluginClass: BluetoothPrintPlusPlugin
-      macos:
-        pluginClass: BluetoothPrintPlusPlugin
       web:
 #        pluginClass: BluetoothPrintPlusWeb
 #        fileName: bluetooth_print_plus_web.dart
